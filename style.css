@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Bebas+Neue&family=Grape+Nuts&family=Quicksand&family=Rubik+Glitch&family=Rubik+Moonrocks&display=swap');
+body{
+    background-image: url("./resources/bg.webp");
+}
+header{
+    font-family: "Bebas Neue";
+    font-size: 60px;
+    margin: 10px 0px 20px 40px;
+
+} 
+.colors{
+    background-color: beige;
+    width: 90%;
+    margin: auto;
+    font-weight: bold;
+}
+h1{
+    font-size: 2em;
+    padding: 0px 40px;
+    font-family: "Bebas Neue";
+    
+}
+section{
+    width: 100%;
+    border: 3px solid black; 
+    margin: 20px 80px 20px 80px; 
+    padding: 0% 0% 20px 0%;
+    border-radius: 20px;
+}
+.footers{
+    
+    text-align: center;
+    font-weight: bold;
+    margin: 5% 25%;
+    font-family: "Bebas Neue";
+    font-size: 25px;
+}
+
+.colorcontainer{
+    width: 18%;
+    display: inline-block;
+    align-content: center;
+    margin: 0% 1%;
+    border-radius: 20px;
+}
+.colorcircles{
+    display: block;
+    width: 50%;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 15px;
+    padding: 1em;
+    margin: 2% auto;
+}
+
+/* BLUES */
+#blues{
+    border: 3px solid blue;
+    margin: 0% 3%;
+    background-color: aliceblue;
+}
+#blue, #cornflower, #light-blue, #midnight-blue{
+    border: 2px solid navy;  
+}
+#blue{
+    background-color: blue;
+}
+#cornflower{
+    background-color: cornflowerblue;
+}
+#light-blue{
+    background-color: lightblue;
+}
+#midnight-blue{
+    background-color: midnightblue;
+    color: cornflowerblue;
+}
+/* ORANGES */
+#oranges{
+    border: 3px solid orange;
+    margin: 0% 3%;
+    background-color: seashell;
+    
+}
+#orange, #coral, #gold, #dark-orange{
+    border: 2px solid orange;
+}
+#orange{
+    background-color: orange;
+}
+#coral{
+    background-color: coral;
+}
+#gold{
+    background-color: gold;
+}
+#dark-orange{
+    background-color: darkorange;
+}
+/* PURPLES */
+
+#purples{
+    border: 3px solid purple;
+    margin: 0% 3%;
+    background-color: lavenderblush;
+    
+}
+#purple, #fuchsia, #thistle, #dark-orchid{
+    
+    border: 2px solid purple;
+    
+}
+#purple{
+    background-color: purple;
+}
+#fuchsia{
+    background-color: fuchsia;
+}
+#thistle{
+    background-color: thistle;
+}
+#dark-orchid{
+    background-color: darkorchid;
+}
+
+/* GREENS */
+#greens{
+    border: 3px solid green;
+    margin: 0% 3%;
+    background-color: mintcream;
+    
+}
+#green, #olive, #lawn-green, #pale-green{
+    border: 2px solid green;
+}
+#green{
+    background-color: green;
+}
+#olive{
+    background-color: olive;
+}
+#lawn-green{
+    background-color: lawngreen;
+}
+#pale-green{
+    background-color: palegreen;
+}
+
+/* FONTS */
+.fonts{
+    background-color: bisque;
+    width: 90%;
+    margin: 20px auto;
+    font-weight: bold;
+    line-height: 3em;
+}
+.f1{
+    font-family: "Rubik Moonrocks";
+    margin: 0px 0px 0px 50px;
+}
+.f2{
+    font-family: "Rubik Glitch";
+    margin: 0px 0px 0px 125px;
+}
+.f3{
+    font-family: "Quicksand";
+    margin: 0px 0px 0px 200px;
+}
+.f4{
+    font-family: "Grape Nuts";
+    margin: 0px 0px 0px 275px;
+}
+.f5{
+    font-family: "Babylon";
+    margin: 0px 0px 0px 350px;
+}
+/* Babylon Bebas Neue Grape Nuts Quicksand Rubik Glitch Rubik Moonrocks */
+
+
+/* STYLES */
+.styles{
+    background-color: snow;
+    width: 90%;
+    margin: 20px auto;
+    font-weight: bold;
+}
+
+.styles h2, h3, h4 {
+
+    padding: 0px 40px;
+}
+.styles h1{
+    margin: 0px 0px 0px 200px;
+    line-height: 2em;
+}
+.styles #styles-header{
+   padding: 0px 0px 0px 150px  !important;
+}
+.styles h2{
+    margin: 0px 0px 0px 125px;
+    line-height: 2em;
+}
+.styles h3{
+    margin: 0px 0px 0px 50px;
+    line-height: 2em;
+}
+#w1{
+    font-weight:lighter;
+    font-size: small;
+    margin: 0px 0px 0px 50px;
+    line-height: 2em;
+}
+#w2{
+    font-weight: bold;
+    font-size: medium;
+    margin: 0px 0px 0px 125px;
+    line-height: 2em;
+}
+#w3{
+    font-weight: bolder;
+    font-size: larger;
+    margin: 0px 0px 0px 200px;
+    line-height: 2em;
+}
